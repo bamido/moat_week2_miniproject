@@ -1,6 +1,6 @@
 <?php
 	
-		
+		/*API Client App*/
 		$url = "http://naijapoetry.com/api/poetsapi";
 
 		//step 1: initialize curl session
